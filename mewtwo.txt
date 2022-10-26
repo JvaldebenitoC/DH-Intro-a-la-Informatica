@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Mewtwo es un Pokémon legendario y artificial de tipo psíquico introducido en la primera generación. Fue creado por el doctor Fuji a partir del ADN de Mew. A partir de la sexta generación puede megaevolucionar en Mega-Mewtwo X o en Mega-Mewtwo Y, convirtiéndose, junto con Mega-Rayquaza, en el Pokémon con la suma de estadísticas de combate más altas.
-=======
 mewtwo fue creado a partir de mew y es el pokemon numero 150, es de tipo psiquico y tiene un ataque especial muy elevado. su forma shiny es de color verde.
->>>>>>> dcfed07cf5be9bc9d25f25ed3eeeca694ccbd7dd
